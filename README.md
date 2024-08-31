@@ -2,7 +2,8 @@
 
 This repository contains media files showcasing Rexograph tests.
 
-## Media Files
+### Print process
+https://github.com/user-attachments/assets/e4a46daa-2065-4eca-bac2-761536925e18
 
 ### Rexograph
 ![Rexograph test image 6757](IMG_6757.jpg)
@@ -15,7 +16,3 @@ This repository contains media files showcasing Rexograph tests.
 
 ### Methanol
 ![Rexograph test image 6793](IMG_6793.jpg)
-
-### Print process
-https://github.com/user-attachments/assets/e4a46daa-2065-4eca-bac2-761536925e18
-
